@@ -287,7 +287,7 @@ li {
 .menubc {
     position: absolute;
     top: 158%;
-    left: -51%;
+    left: -68%;
     transform: translateX(-50%);
     width: 78.9rem;
     z-index: 50;
@@ -1374,3 +1374,4 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
