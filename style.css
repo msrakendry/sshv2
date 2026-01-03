@@ -1278,13 +1278,7 @@ footer {
     padding: 0 0 30px 0;
 }
 /*---------end footer section-------------*/
-   .content {
-            display: none;
-        }
 
-        .content.active {
-            display: block;
-        }
 
 /*---------hover effect for drob-down menu------------*/
 .bfnluS:hover, .bfnluS:focus {
