@@ -191,7 +191,7 @@ li {
 }
 /*----start-header-styling----*/
 .jnbESr {
-    background-image: url(images/a5.jpg);
+    background-image: url(images/header-image.jpg);
     display: flex;
     flex-direction: column;
     margin: 0px auto;
@@ -287,7 +287,7 @@ li {
 .menubc {
     position: absolute;
     top: 158%;
-    left: -68%;
+    left: -51%;
     transform: translateX(-50%);
     width: 78.9rem;
     z-index: 50;
@@ -377,7 +377,7 @@ ul li .menuAho {
     margin: 0 10px 0 0;
 }
 .cta-button {
-    background-image: url('images/Burning Orange.jpg');
+    background-image: url('images/Burning\ Orange-button.jpg');
     color: white;
     border: none;
     padding: 10px 24px;
@@ -897,9 +897,29 @@ element.style {
 }
 .impact-icon {
     font-size: 3rem;
-    color: var(--primary);
     margin-bottom: 20px;
 }
+.education-ACT{
+        color: var(--education);
+}
+.energy-ACT{
+    color: var(--energy);
+    
+}
+
+.livelihood-ACT{
+        color: var(--livelihood);
+
+}
+.water-ACT{
+        color: var(--water);
+}
+
+
+
+
+
+
 .fa, .fa-brands, .fa-classic, .fa-regular, .fa-sharp, .fa-solid, .fab, .far, .fas {
     -moz-osx-font-smoothing: grayscale !important;
     -webkit-font-smoothing: antialiased !important;
@@ -1163,7 +1183,7 @@ padding: 0 5px;}
 /*---------start footer section-------------*/
     
 footer {
-    background: linear-gradient(rgba(9, 77, 36, 11.85), rgba(0, 10, 3, 0.9)), url(images/b3.jpg);
+    background: linear-gradient(rgba(9, 77, 36, 11.85), rgba(0, 10, 3, 0.9)), url('images/footer-imge.jpg');
     background-size: cover;
     background-color: #cccccc;
     height: 571px;
@@ -1255,7 +1275,7 @@ footer {
     font-size: 0.9rem;
 }
 .footer-bottom {
-    background-image: url('images/yallow3.jpg');
+    background-image: url('images/yallow-footer.jpg');
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     padding: 14px 0;
     text-align: center;
@@ -1321,7 +1341,7 @@ footer {
     box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.5);
 }
 .menuAho:hover {
-    background-image: url('images/14L-removebg-preview.png');
+    background-image: url('images/preview-arrow.png');
     background-color: rgb(240, 242, 247);
     color: rgb(53, 63, 82);
     padding-right: 1.25rem;
@@ -1374,4 +1394,3 @@ footer {
         grid-template-columns: 1fr;
     }
 }
-
