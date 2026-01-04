@@ -191,7 +191,7 @@ li {
 }
 /*----start-header-styling----*/
 .jnbESr {
-    https://photos.google.com/album/AF1QipOYK2PsXA6WR8EJsDgKLm4LA3aFojaZBzzB85NA/photo/AF1QipPS4HZ6ho4aB9JnY12STdz7ZByraNXhI20vpdXM
+    background-image: url('https://photos.google.com/album/AF1QipOYK2PsXA6WR8EJsDgKLm4LA3aFojaZBzzB85NA/photo/AF1QipPS4HZ6ho4aB9JnY12STdz7ZByraNXhI20vpdXM');
     display: flex;
     flex-direction: column;
     margin: 0px auto;
@@ -1275,7 +1275,7 @@ footer {
     font-size: 0.9rem;
 }
 .footer-bottom {
-    background-image: url('images/yallow-footer.jpg');
+    background-image: url('https://photos.google.com/album/AF1QipOYK2PsXA6WR8EJsDgKLm4LA3aFojaZBzzB85NA/photo/AF1QipNBpmXj4iEWlX8YvnuVZbZAb_raiEYxCYehX6WE');
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     padding: 14px 0;
     text-align: center;
@@ -1394,4 +1394,5 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
 
