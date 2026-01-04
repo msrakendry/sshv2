@@ -306,7 +306,7 @@ li {
     border-color: transparent transparent rgb(255, 255, 255);
     position: absolute;
     top: -10.4px;
-    left: 54%;
+    left: 54.4%;
     transform: translateX(-50%);
     width: 1.5rem;
 }
@@ -1394,6 +1394,7 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 
