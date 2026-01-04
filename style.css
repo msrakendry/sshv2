@@ -191,14 +191,13 @@ li {
 }
 /*----start-header-styling----*/
 .jnbESr {
-    background-image: url('https://photos.google.com/album/AF1QipOYK2PsXA6WR8EJsDgKLm4LA3aFojaZBzzB85NA/photo/AF1QipPS4HZ6ho4aB9JnY12STdz7ZByraNXhI20vpdXM');
     display: flex;
     flex-direction: column;
     margin: 0px auto;
     width: 100%;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     z-index: 2;
-    background-color: #1b8415;
+    background-color:#010900;
     position: sticky;
     top: 0px;
 }
@@ -1394,6 +1393,7 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 
